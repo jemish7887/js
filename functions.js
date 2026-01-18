@@ -3,8 +3,10 @@ function greet(name){
 }
 greet("john");
  function details(name,age){
-   console.log("name"+name+"age"+age);}
-   details("jo",30);  
+   console.log("name"+name+"age"+age);
+  
+}
+    details("jo",30); 
 
    function occupation(name,ages){
     return `name${name}age${ages}`
