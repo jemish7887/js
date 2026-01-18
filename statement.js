@@ -5,4 +5,4 @@ if(age>18){
 else{
     message="Not Eligible for vote because your age is "+age;
 } 
-console.log(message);
+console.log(message); 
